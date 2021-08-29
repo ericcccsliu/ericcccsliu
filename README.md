@@ -1,3 +1,3 @@
 eric liu 
-incoming freshman studying cs+chem @uiuc
+cs+chem student @uiuc
 liueric360@gmail.com
