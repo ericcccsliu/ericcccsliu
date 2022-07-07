@@ -1,3 +1,3 @@
     eric liu 
-    cs+chem student @uiuc
+    math&cs student @uiuc
     liueric360@gmail.com
