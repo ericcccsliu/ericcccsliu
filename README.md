@@ -5,4 +5,3 @@ these are the things i'm doing in my last semester at the University of Illinois
 - not taking any classes at all
 
 
-<p style="text-align: right"> 🔲 </p>
